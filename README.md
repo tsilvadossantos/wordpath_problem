@@ -7,9 +7,9 @@ The project was develop using the following:
 
 ## Usage:
 
-1. Clone the world_ladder repository
+1. Clone the `wordpath_problem` repository
 
-2. `cd word_path`
+2. `cd wordpath_problem`
 
 3. Help menu: `python app_wordpath.py --help`
 
@@ -18,7 +18,7 @@ Example: `python app_wordpath.py --file=/usr/share/dict/words --word1=pie --word
 
 ## Unit Test Cases
 
-1. `cd word_path/tests`
+1. `cd wordpath_problem/tests`
 
 2. `python -m unittest discover -v`
 
